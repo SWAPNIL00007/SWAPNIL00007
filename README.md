@@ -13,11 +13,11 @@ Welcome to my GitHub! I’m a passionate developer who loves working on modern w
 - Developing AI-powered meeting summaries with real-time transcription.  
 - Building scalable full-stack web applications.  
 ### 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWAPNIL00007&show_icons=true&theme=radical)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SWAPNIL00007&theme=radical)
 ### ⚡ **Fun Fact:**  
 I love solving puzzles and automating repetitive tasks!  
 ### 📫 **Let’s Connect:**  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/swapnil-8a68b7194/)  
 - [Portfolio](https://yourportfolio.com)  
 
