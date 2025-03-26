@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a passionate developer who loves working on modern w
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### 🔭 **Currently Working On:**  
 🌟 Developing AI-powered meeting summaries with real-time transcription and enhanced features.
-🔗 Check out the project here
+🔗 https://link.aieze.in/home
 
 📹 Building a Scalable Full-Stack Video Calling App to improve virtual communication and collaboration.
 🔗 https://linkdev.aieze.in/
