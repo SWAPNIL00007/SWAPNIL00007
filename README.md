@@ -10,8 +10,11 @@ Welcome to my GitHub! I’m a passionate developer who loves working on modern w
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### 🔭 **Currently Working On:**  
-- Developing AI-powered meeting summaries with real-time transcription.  
-- Building scalable full-stack web applications.  
+🌟 Developing AI-powered meeting summaries with real-time transcription and enhanced features.
+🔗 Check out the project here
+
+📹 Building a Scalable Full-Stack Video Calling App to improve virtual communication and collaboration.
+🔗 Explore the video calling app
 ### 📊 **GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWAPNIL00007&show_icons=true&theme=radical)  
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SWAPNIL00007&theme=radical)
