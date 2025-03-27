@@ -9,6 +9,7 @@ Welcome to my GitHub! I’m a passionate developer who loves working on modern w
 - **Tools:** Git, Docker, CI/CD  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ### 🔭 **Currently Working On:**  
 🌟 Developing AI-powered meeting summaries with real-time transcription and enhanced features.
 🔗 https://link.aieze.in/home
