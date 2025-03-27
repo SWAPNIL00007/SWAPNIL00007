@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m a passionate developer who loves working on modern w
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ### 🔭 **Currently Working On:**  
 🌟 Developing AI-powered meeting summaries with real-time transcription and enhanced features.
 🔗 https://link.aieze.in/home
